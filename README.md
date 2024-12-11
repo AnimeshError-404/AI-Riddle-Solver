@@ -1,6 +1,6 @@
 Here’s the complete `README.md` script in one block, ready to copy and paste:
 
-```markdown
+
 # 🔍 AI-Powered Riddle Solver Game 🧩
 
 Welcome to the **AI Riddle Solver Game**! 🎉  
